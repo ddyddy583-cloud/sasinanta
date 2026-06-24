@@ -3,7 +3,7 @@
 - 👀ชื่อเล่น:มิลค์
 - 📚ระดับชั้น:ปวช3 กำลังศึกษาสาขา:เทคโนโลยีสารสนเทศ(IT)
 - 🎥อยากเข้านิเทศศาสตร์🎞️
-###### _📸[รูปตัวฉัน😘]_
+> _📸[รูปตัวฉัน😘]_
  <img width="322" height="402" alt="9984f212-f688-46ea-80e2-bedef011d2ea" src="https://github.com/user-attachments/assets/0b362a33-b9c3-41cd-a2d8-fd14526306f3" />
 
 
@@ -26,3 +26,5 @@
 #  > 📞ส่วนช่องทางการติดต่อ💬
 - Email: sasinanta2551@gmail.com
 - Fadbook: Milk kerdpomg
+
+  
